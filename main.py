@@ -10,7 +10,7 @@ def print_hi(name):
 
 
 def testmain():
-    print("test main")
+    print("modified by feature1")
 
 
 # 按间距中的绿色按钮以运行脚本。
