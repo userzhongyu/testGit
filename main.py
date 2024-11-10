@@ -15,8 +15,11 @@ def testmain():
 def testFetchAndPull():
     print("fetch and pull")
 
-def tastFetch():
+def testFetch():
     print("fetch")
+
+def testFetchGitk():
+    print("gitk")
 
 
 # 按间距中的绿色按钮以运行脚本。
