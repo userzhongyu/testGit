@@ -12,6 +12,9 @@ def print_hi(name):
 def testmain():
     print("modified by feature1")
 
+def testFetchAndPull():
+    print("fetch and pull")
+
 
 # 按间距中的绿色按钮以运行脚本。
 if __name__ == '__main__':
